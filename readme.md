@@ -12,3 +12,7 @@ https://cloud.google.com/docs/authentication/getting-started
 ## Load agent: `npm run loader` 
 
 ## Run tests: `npm run test` or set up IDE to run mocha tests
+
+## Set tunnel (creates a public domain that targets local server): `npm run tunnel`
+
+## Start web server: `npm run server`
