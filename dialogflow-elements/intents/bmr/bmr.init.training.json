@@ -1,0 +1,18 @@
+[
+    {
+        "type": "EXAMPLE",
+        "parts": [
+            {
+                "text": "Set up my bmr"
+            }
+        ]
+    },
+    {
+        "type": "EXAMPLE",
+        "parts": [
+            {
+                "text": "Let's configure my bmr"
+            }
+        ]
+    }
+]

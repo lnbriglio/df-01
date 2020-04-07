@@ -1,0 +1,14 @@
+{
+    "displayName": "drink",
+    "kind": "KIND_MAP",
+    "autoExpansionMode": "AUTO_EXPANSION_MODE_UNSPECIFIED",
+    "entities": [
+        {
+            "value": "water",
+            "synonyms": [
+                "mineral water",
+                "tap water"
+            ]
+        }
+    ]
+}

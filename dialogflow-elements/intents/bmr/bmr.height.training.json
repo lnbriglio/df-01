@@ -1,0 +1,53 @@
+[
+    {
+        "type": "EXAMPLE",
+        "parts": [
+            {
+                "text": "I am "
+            },
+            {
+                "text": "1.75 m",
+                "alias": "unit-length",
+                "entityType": "@sys.unit-length",
+                "userDefined": true
+            },
+            {
+                "text": " tall"
+            }
+        ]
+    },
+    {
+        "type": "EXAMPLE",
+        "parts": [
+            {
+                "text": "I am "
+            },
+            {
+                "text": "175 cm",
+                "alias": "unit-length",
+                "entityType": "@sys.unit-length",
+                "userDefined": true
+            },
+            {
+                "text": " tall"
+            }
+        ]
+    },
+    {
+        "type": "EXAMPLE",
+        "parts": [
+            {
+                "text": "I am "
+            },
+            {
+                "text": "5'9",
+                "alias": "unit-length",
+                "entityType": "@sys.unit-length",
+                "userDefined": true
+            },
+            {
+                "text": " tall"
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "displayName": "bmr.weight",
+    "inputContextNames": [
+        "bmr"
+    ],
+    "outputContexts": [
+        {
+            "name": "bmr",
+            "lifespanCount": 5
+        }
+    ],
+    "parameters": [
+        {
+            "displayName": "unit-weight",
+            "value": "$unit-weight",
+            "entityTypeDisplayName": "@sys.unit-weight"
+        }
+    ]
+}

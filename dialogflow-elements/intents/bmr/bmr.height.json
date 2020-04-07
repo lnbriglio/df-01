@@ -1,0 +1,20 @@
+{
+    "displayName": "bmr.height",
+    "inputContextNames": [
+        "bmr"
+    ],
+    "outputContexts": [
+        {
+            "name": "bmr",
+            "lifespanCount": 5
+        }
+    ],
+    "parameters": [
+        {
+            "displayName": "unit-length",
+            "value": "$unit-length",
+            "entityTypeDisplayName": "@sys.unit-length"
+        }
+    ],
+    "endInteraction": true
+}

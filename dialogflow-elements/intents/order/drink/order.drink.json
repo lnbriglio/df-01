@@ -1,0 +1,12 @@
+{
+    "displayName": "order.drink",
+    "outputContexts": [
+        {
+            "name": "bmr",
+            "lifespanCount": 5
+        }
+    ],
+    "inputContextNames": [
+        "bmr"
+    ]
+}

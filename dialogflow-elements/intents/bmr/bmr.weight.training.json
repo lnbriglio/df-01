@@ -1,0 +1,30 @@
+[
+    {
+        "type": "EXAMPLE",
+        "parts": [
+            {
+                "text": "I weight about "
+            },
+            {
+                "text": "50 kg",
+                "alias": "unit-weight",
+                "entityType": "@sys.unit-weight",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "type": "EXAMPLE",
+        "parts": [
+            {
+                "text": "I think I weight around "
+            },
+            {
+                "text": "50 kg",
+                "alias": "unit-weight",
+                "entityType": "@sys.unit-weight",
+                "userDefined": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "displayName": "bmr.init",
+    "outputContexts": [
+        {
+            "name": "bmr",
+            "lifespanCount": 5
+        }
+    ]
+}
