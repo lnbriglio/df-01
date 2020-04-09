@@ -1,0 +1,38 @@
+case 1 - single input and single responses:
+  - intent: bmr.init
+    user:
+      - I say this "Name" is Sass'y
+    agent:
+      - We say your are bad
+case 2 - inputs and multiple responses:
+  - intent: null
+    user:
+      - I say this "Name" is Sass'y
+    agent:
+      - We say your are bad
+      - We say your are bad
+case 3 - contexts:
+  - intent: null
+    user:
+      - I say this "Name" is Sass'y
+    agent:
+      - We say your are bad
+      - We say your are bad
+    inputContext:
+      -
+    outputContext:
+      - bmr
+case 3 - context with parameters:
+  - intent: null
+    user:
+      - I say this "Name" is Sass'y
+    agent:
+      - We say your are bad
+      - We say your are bad
+    inputContext:
+      -
+    outputContext:
+      - bmr:
+          - weight-unit:
+              - unit.stringValue: cm
+              - amount.numberValue: 69

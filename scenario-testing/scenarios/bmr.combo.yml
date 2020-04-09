@@ -1,0 +1,7 @@
+case 1 - single input and single responses:
+  - user:
+      - I wish you were real
+      - Are you alive
+    agent:
+      - We say your are bad
+      - We don't need you
